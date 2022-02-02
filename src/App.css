@@ -25,6 +25,7 @@ html {
 }
 
 .characterCard {
+  display: flex;
   margin: 1rem;
   min-height: 15rem;
   width: 20rem;
